@@ -43,7 +43,7 @@ ScrollReveal({
 });
 
 ScrollReveal().reveal('.home-content, .heading', { origin:'top'});
-ScrollReveal().reveal('.home-img, .services-container,.portfolio-box,.contact form', { origin:'bottom'});
+ScrollReveal().reveal('.home-img, .services-container,.skill-main,.skills,.portfolio-box,.contact form', { origin:'bottom'});
 ScrollReveal().reveal('.home-content h1, .about', { origin:'left'});
 ScrollReveal().reveal('.home-content p, .about-img,h3,.btn', { origin:'right'});
 
